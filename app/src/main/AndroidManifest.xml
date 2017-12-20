@@ -1,0 +1,11 @@
+<manifest xmlns:platform="http://schemas.platform.com/apk/res/platform"
+    package="seana.me">
+
+    <application
+        platform:allowBackup="true"
+        platform:icon="@mipmap/ic_launcher"
+        platform:label="@string/app_name"
+        platform:roundIcon="@mipmap/ic_launcher_round"
+        platform:supportsRtl="true"
+        platform:theme="@style/AppTheme" />
+</manifest>
